@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimProje", "YazilimProje\YazilimProje.csproj", "{087F350C-6589-450F-AB64-410E3B6A4A6B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Stok Takip ve Şirket Yönetimi", "Stok Takip ve Şirket Yönetimi\Stok Takip ve Şirket Yönetimi.vdproj", "{FA115F7B-F7D5-4A10-AE1D-8FA2E7695C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087F350C-6589-450F-AB64-410E3B6A4A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087F350C-6589-450F-AB64-410E3B6A4A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087F350C-6589-450F-AB64-410E3B6A4A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087F350C-6589-450F-AB64-410E3B6A4A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA115F7B-F7D5-4A10-AE1D-8FA2E7695C3D}.Debug|Any CPU.ActiveCfg = Debug
+		{FA115F7B-F7D5-4A10-AE1D-8FA2E7695C3D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

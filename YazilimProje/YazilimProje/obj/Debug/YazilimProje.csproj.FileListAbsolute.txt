@@ -1,0 +1,69 @@
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\YazilimProje.exe.config
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\YazilimProje.exe
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\YazilimProje.pdb
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csprojResolveAssemblyReference.cache
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Form1.resources
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Properties.Resources.resources
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csproj.GenerateResource.Cache
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.exe
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.pdb
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Stok.resources
+c:\users\ekrem\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimStok.resources
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimYonetim.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.IsciStok.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Satis.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimMuhasebe.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.StokRaporlama.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.GelirRaporla.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.GiderRaporla.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.TedarikciRaporla.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.SifreDegistir.resources
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\RdlCompile.cache
+C:\Users\EKREM\Documents\Visual Studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\RdlCompile.compiled
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csproj.ResolveComReference.cache
+C:\Users\EKREM\documents\visual studio 2015\Projects\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Help.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\YazilimProje.exe.config
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csproj.ResolveComReference.cache
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.exe
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.pdb
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\YazilimProje.exe
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\YazilimProje.pdb
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csprojResolveAssemblyReference.cache
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Form1.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.GelirRaporla.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.GiderRaporla.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Help.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.IsciStok.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Properties.Resources.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.SifreDegistir.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Satis.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.Stok.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.StokRaporlama.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.TedarikciRaporla.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimMuhasebe.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimStok.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.YonetimYonetim.resources
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\YazilimProje.csproj.GenerateResource.Cache
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\RdlCompile.cache
+C:\Users\EKREM\Desktop\Stok Takip ve Şirket Yönetimi Otomasyonu\YazilimProje\YazilimProje\obj\Debug\RdlCompile.compiled
